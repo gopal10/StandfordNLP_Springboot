@@ -1,0 +1,103 @@
+[
+ {
+  "knowledge" :
+  [
+    "name",
+ 
+    "recall",
+ 
+    "record",
+ 
+    "manage",
+ 
+    "repeat",
+ 
+    "state",
+ 
+    "tell",
+ 
+    "define",
+ 
+    "duplicate",
+ 
+    "label",
+ 
+    "reply",
+ 
+    "match",
+ 
+    "memorize",
+ 
+    "fundamental",
+ 
+    "order",
+ 
+    "outline",
+ 
+    "recognize",
+ 
+    "count",
+ 
+    "describe",
+ 
+    "enumerate",
+ 
+    "find",
+ 
+    "quote",
+ 
+    "read",
+ 
+    "select",
+ 
+    "recite",
+ 
+    "reproduce",
+ 
+    "sequence",
+ 
+    "state",
+ 
+    "view",
+ 
+    "write",
+ 
+    "locate",
+ 
+    "identify",
+ 
+    "tell"
+  ],
+  
+  "analysis":[
+     "appraise",
+     "categorize",
+     "compare",
+     "contrast",
+     "debate",
+     "diagram",
+     "differentiate",
+     "distinguish",
+     "examine",
+     "experiment",
+     "inspect",
+     "inventory",
+     "question",
+     "test",
+     "calculate",
+     "discriminate",
+     "point out",
+     "separate",
+     "subdivide",
+     "test",
+     "outline",
+     "recognize",
+     "select",
+     "explain",
+     "identify",
+     "classify",
+     "infer",
+     "illustrate"
+  ]
+}
+]
